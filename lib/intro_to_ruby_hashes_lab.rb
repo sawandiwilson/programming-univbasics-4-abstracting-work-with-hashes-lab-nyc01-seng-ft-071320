@@ -1,6 +1,6 @@
 def my_hash_creator(key, value)
   {:key => value}
-  {:name => "Sawandi"}
+  {:name => "Grace Hopper"}
   {:id => 5}
   {"age" => 33}
 end
